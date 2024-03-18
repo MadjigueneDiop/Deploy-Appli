@@ -2,7 +2,7 @@
   "name": "mon-projet-react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/MadjigueneDiop/Deploy-Appli",
+  "homepage": "http://localhost:3000/MadjigueneDiop/Deploy-Appli",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
